@@ -1,0 +1,18 @@
+{
+  "invoice_no": "B3",
+  "date": "B4",
+  "type": "B5",
+  "customer_name": "B8",
+  "customer_address": "B9",
+  "items_start_row": 12,
+  "items_columns": {
+    "no": "A",
+    "description": "B",
+    "quantity": "C",
+    "unit_price": "D",
+    "amount": "E"
+  },
+  "subtotal": "E21",
+  "vat": "E22",
+  "total": "E23"
+}
